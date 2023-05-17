@@ -1,0 +1,14 @@
+C:\Users\Almwafe\source\repos\testststic\testststic\obj\Debug\netcoreapp3.1\testststic.csproj.AssemblyReference.cache
+C:\Users\Almwafe\source\repos\testststic\testststic\obj\Debug\netcoreapp3.1\testststic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Almwafe\source\repos\testststic\testststic\obj\Debug\netcoreapp3.1\testststic.AssemblyInfoInputs.cache
+C:\Users\Almwafe\source\repos\testststic\testststic\obj\Debug\netcoreapp3.1\testststic.AssemblyInfo.cs
+C:\Users\Almwafe\source\repos\testststic\testststic\obj\Debug\netcoreapp3.1\testststic.csproj.CoreCompileInputs.cache
+C:\Users\Almwafe\source\repos\testststic\testststic\bin\Debug\netcoreapp3.1\testststic.exe
+C:\Users\Almwafe\source\repos\testststic\testststic\bin\Debug\netcoreapp3.1\testststic.deps.json
+C:\Users\Almwafe\source\repos\testststic\testststic\bin\Debug\netcoreapp3.1\testststic.runtimeconfig.json
+C:\Users\Almwafe\source\repos\testststic\testststic\bin\Debug\netcoreapp3.1\testststic.runtimeconfig.dev.json
+C:\Users\Almwafe\source\repos\testststic\testststic\bin\Debug\netcoreapp3.1\testststic.dll
+C:\Users\Almwafe\source\repos\testststic\testststic\bin\Debug\netcoreapp3.1\testststic.pdb
+C:\Users\Almwafe\source\repos\testststic\testststic\obj\Debug\netcoreapp3.1\testststic.dll
+C:\Users\Almwafe\source\repos\testststic\testststic\obj\Debug\netcoreapp3.1\testststic.pdb
+C:\Users\Almwafe\source\repos\testststic\testststic\obj\Debug\netcoreapp3.1\testststic.genruntimeconfig.cache
